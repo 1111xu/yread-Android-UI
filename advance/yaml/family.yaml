@@ -1,0 +1,10 @@
+name: Tom
+age: 37
+spouse:
+   name: Jane
+   age: 25
+children:
+   - name: Jimmy
+     age: 15
+   - name: Jenny
+     age: 12

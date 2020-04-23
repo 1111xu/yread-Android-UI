@@ -1,0 +1,765 @@
+# coding=utf-8
+2019-03-01 16:35:35,432 open.py[line:36] INFO ��app
+2019-03-01 16:51:03,922 open.py[line:36] INFO ��app
+2019-03-01 16:51:41,827 First_start.py[line:15] INFO =============check_OldloginBtn============
+2019-03-01 16:51:44,150 First_start.py[line:21] INFO click OldloginBtn
+2019-03-01 16:51:45,708 login.py[line:19] INFO ==========into_pwdlogin=========
+2019-03-01 16:51:47,387 login.py[line:22] INFO ==========pwdlogin=========
+2019-03-01 16:51:47,387 login.py[line:23] INFO input username:15888509413
+2019-03-01 16:51:48,541 login.py[line:26] INFO input userpwd:a1234568
+2019-03-01 16:51:49,588 login.py[line:29] INFO click loginBtn
+2019-07-03 16:10:28,376 open.py[line:36] INFO ��app
+2019-07-03 16:17:30,663 open.py[line:36] INFO ��app
+2019-07-03 16:20:27,688 open.py[line:36] INFO ��app
+2019-07-03 16:23:03,173 open.py[line:36] INFO ��app
+2019-07-03 16:26:42,279 open.py[line:36] INFO ��app
+2019-07-03 16:43:33,630 open.py[line:36] INFO ��app
+2019-07-03 16:48:04,281 open.py[line:36] INFO ��app
+2019-07-03 16:48:46,512 First_start.py[line:15] INFO =============check_OldloginBtn============
+2019-07-03 16:48:54,798 First_start.py[line:19] INFO OldloginBtn element is not found!
+2019-11-26 17:19:54,661 open.py[line:36] INFO ��app
+2019-11-26 17:24:16,811 open.py[line:36] INFO ��app
+2019-11-26 17:25:03,875 First_start.py[line:15] INFO =============check_OldloginBtn============
+2019-11-26 17:25:12,214 First_start.py[line:19] INFO OldloginBtn element is not found!
+2019-11-26 17:47:35,319 open.py[line:36] INFO ��app
+2019-11-27 18:52:48,790 open.py[line:36] INFO ��app
+2019-11-27 18:55:36,041 open.py[line:36] INFO ��app
+2019-11-27 18:56:49,823 open.py[line:36] INFO ��app
+2019-11-27 19:02:20,889 open.py[line:36] INFO ��app
+2019-11-28 09:52:18,769 open.py[line:36] INFO ��app
+2019-11-28 10:09:58,091 open.py[line:36] INFO ��app
+2019-11-28 10:10:11,155 open.py[line:36] INFO ��app
+2019-11-28 10:10:48,604 open.py[line:36] INFO ��app
+2019-11-28 10:12:07,455 open.py[line:36] INFO ��app
+2019-11-28 10:12:52,826 First_start.py[line:15] INFO =============check_OldloginBtn============
+2019-11-28 10:13:01,557 First_start.py[line:19] INFO OldloginBtn element is not found!
+2019-11-28 10:13:01,557 First_start.py[line:25] INFO =============check_CloseBtn============
+2019-11-28 10:13:10,793 First_start.py[line:29] INFO CloseBtn element is not found!
+2019-11-28 10:13:33,417 open.py[line:36] INFO ��app
+2019-11-28 10:16:55,785 open.py[line:36] INFO ��app
+2019-11-28 10:17:40,574 First_start.py[line:15] INFO =============check_OldloginBtn============
+2019-11-28 10:17:48,663 First_start.py[line:19] INFO OldloginBtn element is not found!
+2019-11-28 10:17:48,663 First_start.py[line:25] INFO =============check_CloseBtn============
+2019-11-28 10:17:48,727 First_start.py[line:31] INFO click CloseBtn
+2019-11-28 10:18:27,130 open.py[line:36] INFO ��app
+2019-11-28 10:19:10,053 First_start.py[line:15] INFO =============check_OldloginBtn============
+2019-11-28 10:19:18,525 First_start.py[line:19] INFO OldloginBtn element is not found!
+2019-11-28 10:20:26,781 open.py[line:36] INFO ��app
+2019-11-28 10:29:54,549 open.py[line:36] INFO ��app
+2019-11-28 10:30:45,053 First_start.py[line:15] INFO =============check_OldloginBtn============
+2019-11-28 10:30:53,302 First_start.py[line:19] INFO OldloginBtn element is not found!
+2019-11-28 10:30:53,302 First_start.py[line:25] INFO =============check_CloseBtn============
+2019-11-28 10:30:53,357 First_start.py[line:31] INFO click CloseBtn
+2019-11-28 10:47:04,190 open.py[line:36] INFO ��app
+2019-11-28 10:47:46,965 First_start.py[line:15] INFO =============check_OldloginBtn============
+2019-11-28 10:47:55,316 First_start.py[line:19] INFO OldloginBtn element is not found!
+2019-11-28 10:47:55,316 First_start.py[line:25] INFO =============check_CloseBtn============
+2019-11-28 10:47:55,389 First_start.py[line:31] INFO click CloseBtn
+2019-11-28 10:47:56,159 login.py[line:18] INFO ==========into_loginpage=========
+2019-11-28 10:47:58,229 login.py[line:22] INFO ==========into_pwdlogin=========
+2019-11-28 10:47:59,811 login.py[line:25] INFO ==========pwdlogin=========
+2019-11-28 10:47:59,811 login.py[line:26] INFO input username:15888509413
+2019-11-28 10:48:01,037 login.py[line:29] INFO input userpwd:abc12345
+2019-11-28 10:48:02,117 login.py[line:32] INFO click loginBtn
+2019-11-28 10:48:32,814 open.py[line:36] INFO ��app
+2019-11-28 10:53:08,408 open.py[line:36] INFO ��app
+2019-11-28 10:54:02,172 First_start.py[line:15] INFO =============check_OldloginBtn============
+2019-11-28 10:54:10,472 First_start.py[line:19] INFO OldloginBtn element is not found!
+2019-11-28 10:54:10,472 First_start.py[line:25] INFO =============check_CloseBtn============
+2019-11-28 10:54:10,530 First_start.py[line:31] INFO click CloseBtn
+2019-11-28 10:54:10,637 login.py[line:18] INFO ==========into_loginpage=========
+2019-11-28 10:54:13,378 login.py[line:22] INFO ==========into_pwdlogin=========
+2019-11-28 10:54:15,186 login.py[line:25] INFO ==========pwdlogin=========
+2019-11-28 10:54:15,188 login.py[line:26] INFO input username:15888509413
+2019-11-28 10:54:16,458 login.py[line:29] INFO input userpwd:abc1235
+2019-11-28 10:54:17,482 login.py[line:32] INFO click loginBtn
+2019-11-28 11:03:15,569 open.py[line:36] INFO ��app
+2019-11-28 11:05:33,741 open.py[line:36] INFO ��app
+2019-11-28 11:06:30,380 First_start.py[line:15] INFO =============check_OldloginBtn============
+2019-11-28 11:06:38,682 First_start.py[line:19] INFO OldloginBtn element is not found!
+2019-11-28 11:06:38,682 First_start.py[line:25] INFO =============check_CloseBtn============
+2019-11-28 11:06:38,748 First_start.py[line:31] INFO click CloseBtn
+2019-11-28 11:06:38,804 login.py[line:18] INFO ==========into_loginpage=========
+2019-11-28 11:06:42,671 login.py[line:22] INFO ==========into_pwdlogin=========
+2019-11-28 11:06:44,497 login.py[line:25] INFO ==========pwdlogin=========
+2019-11-28 11:06:44,498 login.py[line:26] INFO input username:15888509413
+2019-11-28 11:06:45,934 login.py[line:29] INFO input userpwd:abc1235
+2019-11-28 11:06:47,073 login.py[line:32] INFO click loginBtn
+2019-11-28 11:06:47,636 login.py[line:34] INFO login success
+2019-11-28 11:06:56,334 login.py[line:50] INFO Time Out!
+2019-11-28 11:08:50,211 open.py[line:36] INFO ��app
+2019-11-28 11:11:22,904 open.py[line:36] INFO ��app
+2019-11-28 11:12:10,707 First_start.py[line:15] INFO =============check_OldloginBtn============
+2019-11-28 11:12:18,760 First_start.py[line:19] INFO OldloginBtn element is not found!
+2019-11-28 11:12:18,760 First_start.py[line:25] INFO =============check_CloseBtn============
+2019-11-28 11:12:18,804 First_start.py[line:31] INFO click CloseBtn
+2019-11-28 11:12:18,863 login.py[line:18] INFO ==========into_loginpage=========
+2019-11-28 11:12:21,901 login.py[line:22] INFO ==========into_pwdlogin=========
+2019-11-28 11:12:23,718 login.py[line:25] INFO ==========pwdlogin=========
+2019-11-28 11:12:23,719 login.py[line:26] INFO input username:15888509413
+2019-11-28 11:12:24,938 login.py[line:29] INFO input userpwd:abc1235
+2019-11-28 11:12:25,994 login.py[line:32] INFO click loginBtn
+2019-11-28 11:12:26,534 login.py[line:35] INFO login success
+2019-11-28 11:12:35,394 login.py[line:51] INFO Time Out!
+2019-11-28 11:29:18,964 open.py[line:36] INFO ��app
+2019-11-28 11:30:13,663 First_start.py[line:15] INFO =============check_OldloginBtn============
+2019-11-28 11:30:22,164 First_start.py[line:19] INFO OldloginBtn element is not found!
+2019-11-28 11:30:22,164 First_start.py[line:25] INFO =============check_CloseBtn============
+2019-11-28 11:30:22,227 First_start.py[line:31] INFO click CloseBtn
+2019-11-28 11:30:22,282 login.py[line:18] INFO ==========into_loginpage=========
+2019-11-28 11:30:25,723 login.py[line:22] INFO ==========into_pwdlogin=========
+2019-11-28 11:30:27,636 login.py[line:25] INFO ==========pwdlogin=========
+2019-11-28 11:30:27,636 login.py[line:26] INFO input username:15888509413
+2019-11-28 11:30:28,857 login.py[line:29] INFO input userpwd:abc1245
+2019-11-28 11:30:29,925 login.py[line:32] INFO click loginBtn
+2019-11-28 11:30:30,493 login.py[line:35] INFO login success
+2019-11-28 11:31:50,762 open.py[line:36] INFO ��app
+2019-11-28 11:34:13,524 open.py[line:36] INFO ��app
+2019-11-28 11:36:08,245 open.py[line:36] INFO ��app
+2020-03-25 18:56:43,454 open.py[line:36] INFO ��app
+2020-03-25 18:57:35,356 First_start.py[line:15] INFO =============check_OldloginBtn============
+2020-03-25 18:57:44,112 First_start.py[line:19] INFO OldloginBtn element is not found!
+2020-03-25 18:57:44,112 First_start.py[line:25] INFO =============check_CloseBtn============
+2020-03-25 18:57:52,498 First_start.py[line:29] INFO CloseBtn element is not found!
+2020-03-25 18:57:52,498 login.py[line:18] INFO ==========into_loginpage=========
+2020-03-25 18:57:55,119 login.py[line:22] INFO ==========into_pwdlogin=========
+2020-03-25 18:58:00,044 login.py[line:25] INFO ==========pwdlogin=========
+2020-03-25 18:58:00,044 login.py[line:26] INFO input username:15888509413
+2020-03-25 18:58:02,570 login.py[line:29] INFO input userpwd:abc1245
+2020-03-25 18:58:03,639 login.py[line:32] INFO click loginBtn
+2020-03-25 18:58:04,199 login.py[line:35] INFO login success
+2020-03-25 19:00:50,734 open.py[line:36] INFO ��app
+2020-03-25 19:01:35,777 First_start.py[line:15] INFO =============check_OldloginBtn============
+2020-03-25 19:01:44,136 First_start.py[line:19] INFO OldloginBtn element is not found!
+2020-03-25 19:01:44,136 First_start.py[line:25] INFO =============check_CloseBtn============
+2020-03-25 19:01:52,258 First_start.py[line:29] INFO CloseBtn element is not found!
+2020-03-25 19:01:52,258 login.py[line:18] INFO ==========into_loginpage=========
+2020-03-25 19:01:54,499 login.py[line:22] INFO ==========into_pwdlogin=========
+2020-03-25 19:01:56,749 login.py[line:25] INFO ==========pwdlogin=========
+2020-03-25 19:01:56,749 login.py[line:26] INFO input username:15888509413
+2020-03-25 19:01:58,221 login.py[line:29] INFO input userpwd:abc12345
+2020-03-25 19:01:59,283 login.py[line:32] INFO click loginBtn
+2020-03-25 19:01:59,839 login.py[line:35] INFO login success
+2020-04-01 14:02:33,727 open.py[line:36] INFO ��app
+2020-04-01 14:07:07,870 open.py[line:36] INFO ��app
+2020-04-01 14:17:18,313 open.py[line:36] INFO ��app
+2020-04-01 14:37:30,357 open.py[line:36] INFO ��app
+2020-04-01 14:38:26,597 open.py[line:36] INFO ��app
+2020-04-01 14:48:17,367 open.py[line:36] INFO ��app
+2020-04-01 15:09:51,382 open.py[line:36] INFO ��app
+2020-04-01 15:12:04,345 open.py[line:36] INFO ��app
+2020-04-01 15:12:29,326 First_start.py[line:25] INFO =============check_PrivacyRightBtn============
+2020-04-01 15:12:32,219 First_start.py[line:31] INFO click PrivacyRightBtn
+2020-04-01 15:15:48,217 open.py[line:36] INFO ��app
+2020-04-01 15:17:33,360 open.py[line:36] INFO ��app
+2020-04-01 15:17:58,389 First_start.py[line:25] INFO =============check_PrivacyRightBtn============
+2020-04-01 15:18:01,793 First_start.py[line:31] INFO click PrivacyRightBtn
+2020-04-01 16:54:06,304 open.py[line:35] INFO ��app
+2020-04-01 16:54:24,261 First_start.py[line:25] INFO =============check_PrivacyRightBtn============
+2020-04-01 16:54:32,823 First_start.py[line:29] INFO PrivacyRightBtn element is not found!
+2020-04-01 16:54:47,025 open.py[line:35] INFO ��app
+2020-04-01 16:55:03,198 First_start.py[line:25] INFO =============check_PrivacyRightBtn============
+2020-04-01 16:55:11,500 First_start.py[line:29] INFO PrivacyRightBtn element is not found!
+2020-04-01 16:55:11,500 login.py[line:17] INFO ==========into_loginpage=========
+2020-04-01 16:55:13,642 login.py[line:21] INFO ==========into_pwdlogin=========
+2020-04-01 16:55:16,182 login.py[line:24] INFO ==========pwdlogin=========
+2020-04-01 16:55:16,182 login.py[line:25] INFO input username:15888509413
+2020-04-01 16:55:18,015 login.py[line:28] INFO input userpwd:abc12345
+2020-04-01 16:55:19,174 login.py[line:31] INFO click loginBtn
+2020-04-01 16:55:19,745 login.py[line:34] INFO login success
+2020-04-01 18:41:43,801 open.py[line:39] INFO ��app
+2020-04-01 18:42:00,603 First_start.py[line:25] INFO =============check_PrivacyRightBtn============
+2020-04-01 18:42:08,951 First_start.py[line:29] INFO PrivacyRightBtn element is not found!
+2020-04-01 18:42:08,951 login.py[line:17] INFO ==========into_loginpage=========
+2020-04-01 18:42:33,936 open.py[line:39] INFO ��app
+2020-04-01 18:42:51,286 First_start.py[line:25] INFO =============check_PrivacyRightBtn============
+2020-04-01 18:42:59,601 First_start.py[line:29] INFO PrivacyRightBtn element is not found!
+2020-04-01 18:42:59,602 login.py[line:17] INFO ==========into_loginpage=========
+2020-04-01 18:43:01,699 login.py[line:21] INFO ==========into_pwdlogin=========
+2020-04-01 18:43:04,780 login.py[line:24] INFO ==========pwdlogin=========
+2020-04-01 18:43:04,780 login.py[line:25] INFO input username:15888509413
+2020-04-01 18:43:06,472 login.py[line:28] INFO input userpwd:abc12345
+2020-04-01 18:43:07,853 login.py[line:31] INFO click loginBtn
+2020-04-01 18:43:08,449 login.py[line:34] INFO login success
+2020-04-01 18:59:47,423 open.py[line:39] INFO ��app
+2020-04-01 19:00:06,939 First_start.py[line:25] INFO =============check_PrivacyRightBtn============
+2020-04-01 19:00:09,909 First_start.py[line:31] INFO click PrivacyRightBtn
+2020-04-01 19:00:09,977 login.py[line:17] INFO ==========into_loginpage=========
+2020-04-01 19:00:12,540 login.py[line:21] INFO ==========into_pwdlogin=========
+2020-04-01 19:00:14,955 login.py[line:24] INFO ==========pwdlogin=========
+2020-04-01 19:00:14,956 login.py[line:25] INFO input username:15888509413
+2020-04-01 19:00:16,428 login.py[line:28] INFO input userpwd:abc1234
+2020-04-01 19:00:18,417 login.py[line:31] INFO click loginBtn
+2020-04-01 19:00:19,649 login.py[line:34] INFO login success
+2020-04-01 19:01:29,633 open.py[line:39] INFO ��app
+2020-04-01 19:01:47,696 First_start.py[line:25] INFO =============check_PrivacyRightBtn============
+2020-04-01 19:01:50,711 First_start.py[line:31] INFO click PrivacyRightBtn
+2020-04-01 19:01:50,761 login.py[line:17] INFO ==========into_loginpage=========
+2020-04-01 19:01:54,765 login.py[line:21] INFO ==========into_pwdlogin=========
+2020-04-01 19:01:57,821 login.py[line:24] INFO ==========pwdlogin=========
+2020-04-01 19:01:57,821 login.py[line:25] INFO input username:15888509413
+2020-04-01 19:01:59,704 login.py[line:28] INFO input userpwd:abc1234
+2020-04-01 19:02:01,693 login.py[line:31] INFO click loginBtn
+2020-04-01 19:02:02,783 login.py[line:34] INFO login success
+2020-04-01 19:12:20,631 open.py[line:39] INFO ��app
+2020-04-01 19:12:39,427 First_start.py[line:25] INFO =============check_PrivacyRightBtn============
+2020-04-01 19:12:41,811 First_start.py[line:31] INFO click PrivacyRightBtn
+2020-04-01 19:12:41,852 login.py[line:18] INFO ==========into_loginpage=========
+2020-04-01 19:12:44,367 login.py[line:22] INFO ==========into_pwdlogin=========
+2020-04-01 19:12:46,767 login.py[line:25] INFO ==========pwdlogin=========
+2020-04-01 19:12:46,767 login.py[line:26] INFO input username:15888509413
+2020-04-01 19:12:48,405 login.py[line:29] INFO input userpwd:abc1234
+2020-04-01 19:12:49,625 login.py[line:32] INFO click loginBtn
+2020-04-01 19:12:50,243 login.py[line:35] INFO login success
+2020-04-01 19:14:05,405 open.py[line:39] INFO ��app
+2020-04-01 19:14:25,942 First_start.py[line:25] INFO =============check_PrivacyRightBtn============
+2020-04-01 19:14:30,031 First_start.py[line:31] INFO click PrivacyRightBtn
+2020-04-01 19:14:30,097 login.py[line:18] INFO ==========into_loginpage=========
+2020-04-01 19:14:33,074 login.py[line:22] INFO ==========into_pwdlogin=========
+2020-04-01 19:14:35,697 login.py[line:25] INFO ==========pwdlogin=========
+2020-04-01 19:14:35,697 login.py[line:26] INFO input username:15888509413
+2020-04-01 19:14:39,072 login.py[line:29] INFO input userpwd:abc1234
+2020-04-01 19:14:40,703 login.py[line:32] INFO click loginBtn
+2020-04-01 19:14:43,039 login.py[line:35] INFO login success
+2020-04-01 19:18:05,739 open.py[line:39] INFO ��app
+2020-04-01 19:18:24,103 First_start.py[line:25] INFO =============check_PrivacyRightBtn============
+2020-04-01 19:18:26,512 First_start.py[line:31] INFO click PrivacyRightBtn
+2020-04-01 19:18:26,587 login.py[line:18] INFO ==========into_loginpage=========
+2020-04-01 19:18:29,394 login.py[line:22] INFO ==========into_pwdlogin=========
+2020-04-01 19:18:31,917 login.py[line:25] INFO ==========pwdlogin=========
+2020-04-01 19:18:31,917 login.py[line:26] INFO input username:15888509413
+2020-04-01 19:18:33,530 login.py[line:29] INFO input userpwd:abc1234
+2020-04-01 19:18:34,799 login.py[line:32] INFO click loginBtn
+2020-04-01 19:21:20,333 open.py[line:39] INFO ��app
+2020-04-01 19:21:37,860 First_start.py[line:25] INFO =============check_PrivacyRightBtn============
+2020-04-01 19:21:40,319 First_start.py[line:31] INFO click PrivacyRightBtn
+2020-04-01 19:21:40,383 login.py[line:18] INFO ==========into_loginpage=========
+2020-04-01 19:21:43,416 login.py[line:22] INFO ==========into_pwdlogin=========
+2020-04-01 19:21:45,195 login.py[line:25] INFO ==========pwdlogin=========
+2020-04-01 19:21:45,195 login.py[line:26] INFO input username:15888509413
+2020-04-01 19:21:46,540 login.py[line:29] INFO input userpwd:abc1234
+2020-04-01 19:21:48,103 login.py[line:32] INFO click loginBtn
+2020-04-01 19:23:16,823 open.py[line:39] INFO ��app
+2020-04-01 19:25:05,864 open.py[line:39] INFO ��app
+2020-04-01 19:25:23,340 First_start.py[line:25] INFO =============check_PrivacyRightBtn============
+2020-04-01 19:25:26,555 First_start.py[line:31] INFO click PrivacyRightBtn
+2020-04-01 19:25:26,600 login.py[line:18] INFO ==========into_loginpage=========
+2020-04-01 19:25:29,574 login.py[line:22] INFO ==========into_pwdlogin=========
+2020-04-01 19:25:32,018 login.py[line:25] INFO ==========pwdlogin=========
+2020-04-01 19:25:32,018 login.py[line:26] INFO input username:15888509413
+2020-04-01 19:25:33,599 login.py[line:29] INFO input userpwd:abc1234
+2020-04-01 19:25:35,283 login.py[line:32] INFO click loginBtn
+2020-04-01 19:36:05,421 open.py[line:39] INFO ��app
+2020-04-01 19:36:24,830 First_start.py[line:25] INFO =============check_PrivacyRightBtn============
+2020-04-01 19:36:29,495 First_start.py[line:31] INFO click PrivacyRightBtn
+2020-04-01 19:36:29,564 login.py[line:19] INFO ==========into_loginpage=========
+2020-04-01 19:36:32,694 login.py[line:23] INFO ==========into_pwdlogin=========
+2020-04-01 19:36:35,615 login.py[line:26] INFO ==========pwdlogin=========
+2020-04-01 19:36:35,615 login.py[line:27] INFO input username:15888509413
+2020-04-01 19:36:37,554 login.py[line:30] INFO input userpwd:abc1234
+2020-04-01 19:36:38,725 login.py[line:33] INFO click loginBtn
+2020-04-01 19:40:34,935 open.py[line:39] INFO ��app
+2020-04-01 19:40:53,004 First_start.py[line:25] INFO =============check_PrivacyRightBtn============
+2020-04-01 19:40:55,990 First_start.py[line:31] INFO click PrivacyRightBtn
+2020-04-01 19:40:56,062 login.py[line:19] INFO ==========into_loginpage=========
+2020-04-01 19:40:59,590 login.py[line:23] INFO ==========into_pwdlogin=========
+2020-04-01 19:41:01,613 login.py[line:26] INFO ==========pwdlogin=========
+2020-04-01 19:41:01,613 login.py[line:27] INFO input username:15888509413
+2020-04-01 19:41:03,258 login.py[line:30] INFO input userpwd:abc1234
+2020-04-01 19:41:05,017 login.py[line:33] INFO click loginBtn
+2020-04-01 19:41:47,318 open.py[line:39] INFO ��app
+2020-04-01 19:42:07,408 First_start.py[line:25] INFO =============check_PrivacyRightBtn============
+2020-04-01 19:42:10,486 First_start.py[line:31] INFO click PrivacyRightBtn
+2020-04-01 19:42:11,120 login.py[line:19] INFO ==========into_loginpage=========
+2020-04-01 19:42:13,945 login.py[line:23] INFO ==========into_pwdlogin=========
+2020-04-01 19:42:16,640 login.py[line:26] INFO ==========pwdlogin=========
+2020-04-01 19:42:16,640 login.py[line:27] INFO input username:15888509413
+2020-04-01 19:42:19,454 login.py[line:30] INFO input userpwd:abc1234
+2020-04-01 19:42:20,605 login.py[line:33] INFO click loginBtn
+2020-04-01 19:44:53,921 open.py[line:39] INFO ��app
+2020-04-01 19:45:12,539 First_start.py[line:25] INFO =============check_PrivacyRightBtn============
+2020-04-01 19:45:15,642 First_start.py[line:31] INFO click PrivacyRightBtn
+2020-04-01 19:45:15,695 login.py[line:21] INFO ==========into_loginpage=========
+2020-04-01 19:45:18,605 login.py[line:25] INFO ==========into_pwdlogin=========
+2020-04-01 19:45:21,147 login.py[line:28] INFO ==========pwdlogin=========
+2020-04-01 19:45:21,147 login.py[line:29] INFO input username:15888509413
+2020-04-01 19:45:22,676 login.py[line:32] INFO input userpwd:abc1234
+2020-04-01 19:45:25,063 login.py[line:35] INFO click loginBtn
+2020-04-01 19:52:40,205 open.py[line:39] INFO ��app
+2020-04-01 19:54:56,619 First_start.py[line:25] INFO =============check_PrivacyRightBtn============
+2020-04-01 19:54:59,772 First_start.py[line:31] INFO click PrivacyRightBtn
+2020-04-01 19:54:59,839 login.py[line:21] INFO ==========into_loginpage=========
+2020-04-01 19:55:03,441 login.py[line:25] INFO ==========into_pwdlogin=========
+2020-04-01 19:55:05,065 login.py[line:28] INFO ==========pwdlogin=========
+2020-04-01 19:55:05,066 login.py[line:29] INFO input username:15888509413
+2020-04-01 19:55:06,476 login.py[line:32] INFO input userpwd:abc1234
+2020-04-01 19:55:08,597 login.py[line:35] INFO click loginBtn
+2020-04-09 20:27:23,903 open.py[line:39] INFO ��app
+2020-04-09 20:30:10,162 open.py[line:39] INFO ��app
+2020-04-09 20:31:47,570 open.py[line:39] INFO ��app
+2020-04-09 20:32:56,664 open.py[line:39] INFO ��app
+2020-04-09 20:33:43,075 open.py[line:39] INFO ��app
+2020-04-09 20:34:23,523 First_start.py[line:25] INFO =============check_PrivacyRightBtn============
+2020-04-09 20:34:27,323 First_start.py[line:31] INFO click PrivacyRightBtn
+2020-04-09 20:34:27,380 login.py[line:21] INFO ==========into_loginpage=========
+2020-04-09 20:34:30,026 login.py[line:25] INFO ==========into_pwdlogin=========
+2020-04-09 20:34:32,310 login.py[line:28] INFO ==========pwdlogin=========
+2020-04-09 20:34:32,311 login.py[line:29] INFO input username:15888509413
+2020-04-09 20:34:33,717 login.py[line:32] INFO input userpwd:abc1234
+2020-04-09 20:34:34,814 login.py[line:35] INFO click loginBtn
+2020-04-09 20:34:35,397 login.py[line:46] INFO login success
+2020-04-10 10:54:49,237 open.py[line:38] INFO ��app
+2020-04-10 10:55:29,953 First_start.py[line:25] INFO =============check_PrivacyRightBtn============
+2020-04-10 10:55:34,405 First_start.py[line:31] INFO click PrivacyRightBtn
+2020-04-10 10:55:34,553 login.py[line:21] INFO ==========into_loginpage=========
+2020-04-10 10:55:36,867 login.py[line:25] INFO ==========into_pwdlogin=========
+2020-04-10 10:55:39,128 login.py[line:28] INFO ==========pwdlogin=========
+2020-04-10 10:55:39,128 login.py[line:29] INFO input username:15888509413
+2020-04-10 10:55:40,536 login.py[line:32] INFO input userpwd:abc1234
+2020-04-10 10:55:41,594 login.py[line:35] INFO click loginBtn
+2020-04-10 11:00:53,859 open.py[line:38] INFO ��app
+2020-04-10 11:01:35,207 First_start.py[line:25] INFO =============check_PrivacyRightBtn============
+2020-04-10 11:01:38,791 First_start.py[line:31] INFO click PrivacyRightBtn
+2020-04-10 11:01:38,857 login.py[line:21] INFO ==========into_loginpage=========
+2020-04-10 11:01:41,051 login.py[line:25] INFO ==========into_pwdlogin=========
+2020-04-10 11:01:43,250 login.py[line:28] INFO ==========pwdlogin=========
+2020-04-10 11:01:43,250 login.py[line:29] INFO input username:15888509413
+2020-04-10 11:01:44,642 login.py[line:32] INFO input userpwd:abc1234
+2020-04-10 11:01:45,728 login.py[line:35] INFO click loginBtn
+2020-04-10 11:01:54,892 login.py[line:49] INFO Time Out!
+2020-04-10 11:01:54,892 login.py[line:53] INFO login failed
+2020-04-10 11:11:04,948 open.py[line:38] INFO ��app
+2020-04-10 11:11:44,693 First_start.py[line:25] INFO =============check_PrivacyRightBtn============
+2020-04-10 11:11:46,845 First_start.py[line:29] INFO PrivacyRightBtn element is not found!
+2020-04-10 11:11:46,845 login.py[line:21] INFO ==========into_loginpage=========
+2020-04-10 11:14:47,912 open.py[line:38] INFO ��app
+2020-04-10 11:15:26,539 First_start.py[line:25] INFO =============check_PrivacyRightBtn============
+2020-04-10 11:15:30,740 First_start.py[line:31] INFO click PrivacyRightBtn
+2020-04-10 11:15:30,854 login.py[line:22] INFO ==========into_loginpage=========
+2020-04-10 11:15:32,795 login.py[line:26] INFO ==========into_pwdlogin=========
+2020-04-10 11:15:35,017 login.py[line:29] INFO ==========pwdlogin=========
+2020-04-10 11:15:35,018 login.py[line:30] INFO input username:15888509413
+2020-04-10 11:15:36,415 login.py[line:33] INFO input userpwd:abc1234
+2020-04-10 11:15:37,476 login.py[line:36] INFO click loginBtn
+2020-04-10 11:15:43,638 login.py[line:50] INFO Time Out!
+2020-04-10 11:15:43,638 login.py[line:54] INFO login failed
+2020-04-10 11:22:04,778 open.py[line:38] INFO ��app
+2020-04-10 11:22:45,199 First_start.py[line:25] INFO =============check_PrivacyRightBtn============
+2020-04-10 11:22:48,918 First_start.py[line:31] INFO click PrivacyRightBtn
+2020-04-10 11:22:49,709 login.py[line:22] INFO ==========into_loginpage=========
+2020-04-10 11:22:50,970 login.py[line:26] INFO ==========into_pwdlogin=========
+2020-04-10 11:22:53,612 login.py[line:29] INFO ==========pwdlogin=========
+2020-04-10 11:22:53,612 login.py[line:30] INFO input username:15888509413
+2020-04-10 11:22:54,985 login.py[line:33] INFO input userpwd:abc1234
+2020-04-10 11:22:56,052 login.py[line:36] INFO click loginBtn
+2020-04-10 11:23:02,550 login.py[line:47] INFO Time Out!
+2020-04-10 11:23:02,550 login.py[line:51] INFO login failed
+2020-04-10 11:24:17,791 open.py[line:38] INFO ��app
+2020-04-10 11:29:52,991 open.py[line:38] INFO ��app
+2020-04-10 11:30:33,962 First_start.py[line:25] INFO =============check_PrivacyRightBtn============
+2020-04-10 11:30:34,095 First_start.py[line:31] INFO click PrivacyRightBtn
+2020-04-10 11:30:34,142 login.py[line:25] INFO ==========into_loginpage=========
+2020-04-10 11:30:36,394 login.py[line:29] INFO ==========into_pwdlogin=========
+2020-04-10 11:32:11,604 open.py[line:38] INFO ��app
+2020-04-10 11:32:56,085 First_start.py[line:25] INFO =============check_PrivacyRightBtn============
+2020-04-10 11:32:56,208 First_start.py[line:31] INFO click PrivacyRightBtn
+2020-04-10 11:32:57,494 login.py[line:25] INFO ==========into_loginpage=========
+2020-04-10 11:33:56,647 open.py[line:38] INFO ��app
+2020-04-10 11:34:42,681 First_start.py[line:25] INFO =============check_PrivacyRightBtn============
+2020-04-10 11:34:42,806 First_start.py[line:31] INFO click PrivacyRightBtn
+2020-04-10 11:34:42,837 login.py[line:25] INFO ==========into_loginpage=========
+2020-04-10 11:34:45,655 login.py[line:29] INFO ==========into_pwdlogin=========
+2020-04-10 11:34:47,755 login.py[line:32] INFO ==========pwdlogin=========
+2020-04-10 11:34:47,755 login.py[line:33] INFO input username:15888509413
+2020-04-10 11:34:49,197 login.py[line:36] INFO input userpwd:abc1234
+2020-04-10 11:34:50,258 login.py[line:39] INFO click loginBtn
+2020-04-10 11:34:54,712 login.py[line:50] INFO Time Out!
+2020-04-10 11:34:54,712 login.py[line:54] INFO login failed
+2020-04-10 13:24:45,743 open.py[line:38] INFO ��app
+2020-04-10 13:27:57,564 open.py[line:38] INFO ��app
+2020-04-10 13:28:34,044 First_start.py[line:25] INFO =============check_PrivacyRightBtn============
+2020-04-10 13:28:37,496 First_start.py[line:29] INFO PrivacyRightBtn element is not found!
+2020-04-10 13:28:37,497 login.py[line:24] INFO ==========into_loginpage=========
+2020-04-10 13:29:12,660 open.py[line:38] INFO ��app
+2020-04-10 13:31:08,831 open.py[line:38] INFO ��app
+2020-04-10 13:34:25,971 open.py[line:38] INFO ��app
+2020-04-10 13:35:05,627 First_start.py[line:25] INFO =============check_PrivacyRightBtn============
+2020-04-10 13:35:10,014 First_start.py[line:31] INFO click PrivacyRightBtn
+2020-04-10 13:35:10,062 login.py[line:24] INFO ==========into_loginpage=========
+2020-04-10 13:35:13,048 login.py[line:28] INFO ==========into_pwdlogin=========
+2020-04-10 13:35:15,444 login.py[line:31] INFO ==========pwdlogin=========
+2020-04-10 13:35:15,445 login.py[line:32] INFO input username:15888509413
+2020-04-10 13:35:16,864 login.py[line:35] INFO input userpwd:abc1234
+2020-04-10 13:35:17,990 login.py[line:38] INFO click loginBtn
+2020-04-10 13:42:38,937 open.py[line:38] INFO ��app
+2020-04-10 13:43:11,914 First_start.py[line:25] INFO =============check_PrivacyRightBtn============
+2020-04-10 13:43:15,737 First_start.py[line:31] INFO click PrivacyRightBtn
+2020-04-10 13:43:15,983 login.py[line:24] INFO ==========into_loginpage=========
+2020-04-10 13:43:18,660 login.py[line:28] INFO ==========into_pwdlogin=========
+2020-04-10 13:43:21,397 login.py[line:31] INFO ==========pwdlogin=========
+2020-04-10 13:43:21,397 login.py[line:32] INFO input username:15888509413
+2020-04-10 13:43:22,749 login.py[line:35] INFO input userpwd:abc1234
+2020-04-10 13:43:23,829 login.py[line:38] INFO click loginBtn
+2020-04-14 11:39:19,264 open.py[line:38] INFO ��app
+2020-04-14 13:21:56,389 open.py[line:38] INFO ��app
+2020-04-14 13:22:40,935 First_start.py[line:25] INFO =============check_PrivacyRightBtn============
+2020-04-14 13:22:46,351 First_start.py[line:31] INFO click PrivacyRightBtn
+2020-04-14 13:22:47,083 login.py[line:24] INFO ==========into_loginpage=========
+2020-04-14 13:22:49,324 login.py[line:28] INFO ==========into_pwdlogin=========
+2020-04-14 13:22:51,647 login.py[line:31] INFO ==========pwdlogin=========
+2020-04-14 13:22:51,647 login.py[line:32] INFO input username:15888509413
+2020-04-14 13:22:53,050 login.py[line:35] INFO input userpwd:abc12345
+2020-04-14 13:22:54,116 login.py[line:38] INFO click loginBtn
+2020-04-14 13:51:29,619 open.py[line:38] INFO ��app
+2020-04-14 13:52:17,424 open_u3d.py[line:17] INFO ==========into_coursepage=========
+2020-04-14 13:53:27,272 open.py[line:38] INFO ��app
+2020-04-14 13:54:07,529 First_start.py[line:25] INFO =============check_PrivacyRightBtn============
+2020-04-14 13:54:11,998 First_start.py[line:31] INFO click PrivacyRightBtn
+2020-04-14 13:54:12,838 login.py[line:24] INFO ==========into_loginpage=========
+2020-04-14 13:54:14,747 login.py[line:28] INFO ==========into_pwdlogin=========
+2020-04-14 13:54:17,220 login.py[line:31] INFO ==========pwdlogin=========
+2020-04-14 13:54:17,220 login.py[line:32] INFO input username:15888509413
+2020-04-14 13:54:18,639 login.py[line:35] INFO input userpwd:abc12345
+2020-04-14 13:54:19,702 login.py[line:38] INFO click loginBtn
+2020-04-14 13:54:20,257 open_u3d.py[line:17] INFO ==========into_coursepage=========
+2020-04-14 13:58:48,091 open.py[line:38] INFO ��app
+2020-04-14 13:59:31,476 First_start.py[line:25] INFO =============check_PrivacyRightBtn============
+2020-04-14 13:59:36,426 First_start.py[line:31] INFO click PrivacyRightBtn
+2020-04-14 13:59:36,464 login.py[line:24] INFO ==========into_loginpage=========
+2020-04-14 13:59:39,043 login.py[line:28] INFO ==========into_pwdlogin=========
+2020-04-14 13:59:41,810 login.py[line:31] INFO ==========pwdlogin=========
+2020-04-14 13:59:41,810 login.py[line:32] INFO input username:15888509413
+2020-04-14 13:59:43,183 login.py[line:35] INFO input userpwd:abc12345
+2020-04-14 13:59:44,243 login.py[line:38] INFO click loginBtn
+2020-04-14 13:59:49,797 open_u3d.py[line:18] INFO ==========into_coursepage=========
+2020-04-14 14:13:27,798 open.py[line:38] INFO ��app
+2020-04-14 14:14:02,562 First_start.py[line:25] INFO =============check_PrivacyRightBtn============
+2020-04-14 14:14:06,260 First_start.py[line:31] INFO click PrivacyRightBtn
+2020-04-14 14:14:07,025 login.py[line:24] INFO ==========into_loginpage=========
+2020-04-14 14:14:09,297 login.py[line:28] INFO ==========into_pwdlogin=========
+2020-04-14 14:14:11,353 login.py[line:31] INFO ==========pwdlogin=========
+2020-04-14 14:14:11,353 login.py[line:32] INFO input username:15888509413
+2020-04-14 14:14:12,737 login.py[line:35] INFO input userpwd:abc12345
+2020-04-14 14:14:13,827 login.py[line:38] INFO click loginBtn
+2020-04-14 14:14:19,389 open_u3d.py[line:18] INFO ==========into_coursepage=========
+2020-04-14 14:16:16,617 open.py[line:38] INFO ��app
+2020-04-14 14:16:55,901 First_start.py[line:25] INFO =============check_PrivacyRightBtn============
+2020-04-14 14:17:00,737 First_start.py[line:31] INFO click PrivacyRightBtn
+2020-04-14 14:17:00,791 login.py[line:24] INFO ==========into_loginpage=========
+2020-04-14 14:17:03,666 login.py[line:28] INFO ==========into_pwdlogin=========
+2020-04-14 14:17:06,432 login.py[line:31] INFO ==========pwdlogin=========
+2020-04-14 14:17:06,433 login.py[line:32] INFO input username:15888509413
+2020-04-14 14:17:07,819 login.py[line:35] INFO input userpwd:abc12345
+2020-04-14 14:17:08,899 login.py[line:38] INFO click loginBtn
+2020-04-14 14:17:14,466 open_u3d.py[line:18] INFO ==========into_coursepage=========
+2020-04-14 14:17:14,650 open_u3d.py[line:20] INFO ==========open u3dcourse=========
+2020-04-14 14:48:05,499 open.py[line:42] INFO ��app
+2020-04-14 14:48:59,041 First_start.py[line:25] INFO =============check_PrivacyRightBtn============
+2020-04-14 14:49:02,669 First_start.py[line:31] INFO click PrivacyRightBtn
+2020-04-14 14:49:03,678 login.py[line:24] INFO ==========into_loginpage=========
+2020-04-14 14:49:05,011 login.py[line:28] INFO ==========into_pwdlogin=========
+2020-04-14 14:49:07,931 login.py[line:31] INFO ==========pwdlogin=========
+2020-04-14 14:49:07,931 login.py[line:32] INFO input username:15888509413
+2020-04-14 14:49:09,328 login.py[line:35] INFO input userpwd:abc12345
+2020-04-14 14:49:10,388 login.py[line:38] INFO click loginBtn
+2020-04-14 14:49:15,938 open_u3d.py[line:24] INFO ==========into_coursepage=========
+2020-04-14 14:49:16,169 open_u3d.py[line:26] INFO ==========open u3dcourse=========
+2020-04-14 14:55:59,069 open.py[line:42] INFO ��app
+2020-04-14 14:56:41,213 First_start.py[line:25] INFO =============check_PrivacyRightBtn============
+2020-04-14 14:56:45,947 First_start.py[line:31] INFO click PrivacyRightBtn
+2020-04-14 14:56:46,847 login.py[line:24] INFO ==========into_loginpage=========
+2020-04-14 14:56:48,696 login.py[line:28] INFO ==========into_pwdlogin=========
+2020-04-14 14:56:52,957 login.py[line:31] INFO ==========pwdlogin=========
+2020-04-14 14:56:52,957 login.py[line:32] INFO input username:15888509413
+2020-04-14 14:56:53,545 login.py[line:35] INFO input userpwd:abc12345
+2020-04-14 14:56:54,605 login.py[line:38] INFO click loginBtn
+2020-04-14 14:57:00,164 open_u3d.py[line:24] INFO ==========into_coursepage=========
+2020-04-14 14:57:00,412 open_u3d.py[line:26] INFO ==========open u3dcourse=========
+2020-04-14 15:01:10,532 open.py[line:42] INFO ��app
+2020-04-14 15:01:45,725 First_start.py[line:25] INFO =============check_PrivacyRightBtn============
+2020-04-14 15:01:49,798 First_start.py[line:31] INFO click PrivacyRightBtn
+2020-04-14 15:01:49,845 login.py[line:24] INFO ==========into_loginpage=========
+2020-04-14 15:01:52,705 login.py[line:28] INFO ==========into_pwdlogin=========
+2020-04-14 15:01:55,383 login.py[line:31] INFO ==========pwdlogin=========
+2020-04-14 15:01:55,384 login.py[line:32] INFO input username:15888509413
+2020-04-14 15:01:57,033 login.py[line:35] INFO input userpwd:abc12345
+2020-04-14 15:01:58,095 login.py[line:38] INFO click loginBtn
+2020-04-14 15:02:03,684 open_u3d.py[line:24] INFO ==========into_coursepage=========
+2020-04-14 15:02:03,880 open_u3d.py[line:26] INFO ==========open u3dcourse=========
+2020-04-14 15:02:29,670 open.py[line:42] INFO ��app
+2020-04-14 15:03:07,354 First_start.py[line:25] INFO =============check_PrivacyRightBtn============
+2020-04-14 15:03:11,323 First_start.py[line:31] INFO click PrivacyRightBtn
+2020-04-14 15:03:11,371 login.py[line:24] INFO ==========into_loginpage=========
+2020-04-14 15:03:14,120 login.py[line:28] INFO ==========into_pwdlogin=========
+2020-04-14 15:03:16,409 login.py[line:31] INFO ==========pwdlogin=========
+2020-04-14 15:03:16,409 login.py[line:32] INFO input username:15888509413
+2020-04-14 15:03:17,823 login.py[line:35] INFO input userpwd:abc12345
+2020-04-14 15:03:18,888 login.py[line:38] INFO click loginBtn
+2020-04-14 15:03:24,467 open_u3d.py[line:24] INFO ==========into_coursepage=========
+2020-04-14 15:03:24,671 open_u3d.py[line:26] INFO ==========open u3dcourse=========
+2020-04-14 15:09:33,958 open.py[line:42] INFO ��app
+2020-04-14 15:10:10,851 First_start.py[line:25] INFO =============check_PrivacyRightBtn============
+2020-04-14 15:10:15,902 First_start.py[line:31] INFO click PrivacyRightBtn
+2020-04-14 15:10:16,667 login.py[line:24] INFO ==========into_loginpage=========
+2020-04-14 15:10:18,866 login.py[line:28] INFO ==========into_pwdlogin=========
+2020-04-14 15:10:21,620 login.py[line:31] INFO ==========pwdlogin=========
+2020-04-14 15:10:21,621 login.py[line:32] INFO input username:15888509413
+2020-04-14 15:10:23,045 login.py[line:35] INFO input userpwd:abc12345
+2020-04-14 15:10:24,102 login.py[line:38] INFO click loginBtn
+2020-04-14 15:10:29,652 open_u3d.py[line:24] INFO ==========into_coursepage=========
+2020-04-14 15:10:29,920 open_u3d.py[line:26] INFO ==========open u3dcourse=========
+2020-04-14 15:16:21,949 open.py[line:42] INFO ��app
+2020-04-14 15:16:58,917 First_start.py[line:25] INFO =============check_PrivacyRightBtn============
+2020-04-14 15:17:04,873 First_start.py[line:31] INFO click PrivacyRightBtn
+2020-04-14 15:17:05,719 login.py[line:24] INFO ==========into_loginpage=========
+2020-04-14 15:17:08,004 login.py[line:28] INFO ==========into_pwdlogin=========
+2020-04-14 15:17:10,277 login.py[line:31] INFO ==========pwdlogin=========
+2020-04-14 15:17:10,277 login.py[line:32] INFO input username:15888509413
+2020-04-14 15:17:11,787 login.py[line:35] INFO input userpwd:abc12345
+2020-04-14 15:17:12,853 login.py[line:38] INFO click loginBtn
+2020-04-14 15:17:18,405 open_u3d.py[line:24] INFO ==========into_coursepage=========
+2020-04-14 15:17:18,609 open_u3d.py[line:26] INFO ==========open u3dcourse=========
+2020-04-14 15:17:23,526 open_u3d.py[line:33] INFO ==========get_permission=========
+2020-04-14 15:17:25,205 open_u3d.py[line:35] INFO ==========start_study=========
+2020-04-14 15:18:25,585 open.py[line:42] INFO ��app
+2020-04-14 15:19:05,386 First_start.py[line:25] INFO =============check_PrivacyRightBtn============
+2020-04-14 15:19:09,643 First_start.py[line:31] INFO click PrivacyRightBtn
+2020-04-14 15:19:09,824 login.py[line:24] INFO ==========into_loginpage=========
+2020-04-14 15:19:12,744 login.py[line:28] INFO ==========into_pwdlogin=========
+2020-04-14 15:19:14,944 login.py[line:31] INFO ==========pwdlogin=========
+2020-04-14 15:19:14,945 login.py[line:32] INFO input username:15888509413
+2020-04-14 15:19:16,342 login.py[line:35] INFO input userpwd:abc12345
+2020-04-14 15:19:17,428 login.py[line:38] INFO click loginBtn
+2020-04-14 15:19:23,006 open_u3d.py[line:24] INFO ==========into_coursepage=========
+2020-04-14 15:19:23,251 open_u3d.py[line:26] INFO ==========open u3dcourse=========
+2020-04-14 15:19:28,637 open_u3d.py[line:33] INFO ==========get_permission=========
+2020-04-14 15:19:32,374 open_u3d.py[line:37] INFO ==========start_study=========
+2020-04-15 15:37:39,272 open.py[line:42] INFO ��app
+2020-04-15 15:38:13,812 First_start.py[line:25] INFO =============check_PrivacyRightBtn============
+2020-04-15 15:38:21,217 First_start.py[line:31] INFO click PrivacyRightBtn
+2020-04-15 15:38:21,298 login.py[line:24] INFO ==========into_loginpage=========
+2020-04-15 15:38:52,488 open.py[line:42] INFO ��app
+2020-04-15 15:39:12,696 First_start.py[line:25] INFO =============check_PrivacyRightBtn============
+2020-04-15 15:39:19,913 First_start.py[line:31] INFO click PrivacyRightBtn
+2020-04-15 15:39:20,134 login.py[line:24] INFO ==========into_loginpage=========
+2020-04-15 15:39:41,244 open.py[line:42] INFO ��app
+2020-04-15 15:40:00,026 First_start.py[line:25] INFO =============check_PrivacyRightBtn============
+2020-04-15 15:40:07,247 First_start.py[line:31] INFO click PrivacyRightBtn
+2020-04-15 15:40:07,491 login.py[line:24] INFO ==========into_loginpage=========
+2020-04-15 15:40:30,778 open.py[line:42] INFO ��app
+2020-04-15 15:41:11,644 open.py[line:42] INFO ��app
+2020-04-15 15:42:23,019 open.py[line:42] INFO ��app
+2020-04-15 15:44:50,162 open.py[line:42] INFO ��app
+2020-04-15 15:52:42,712 open.py[line:42] INFO ��app
+2020-04-15 15:58:31,991 open.py[line:42] INFO ��app
+2020-04-15 15:59:17,663 open.py[line:42] INFO ��app
+2020-04-15 16:03:56,037 open.py[line:42] INFO ��app
+2020-04-15 16:04:20,168 open.py[line:42] INFO ��app
+2020-04-15 16:09:10,605 open.py[line:42] INFO ��app
+2020-04-15 16:09:51,107 First_start.py[line:25] INFO =============check_PrivacyRightBtn============
+2020-04-15 16:09:59,277 First_start.py[line:29] INFO PrivacyRightBtn element is not found!
+2020-04-15 16:09:59,278 login.py[line:24] INFO ==========into_loginpage=========
+2020-04-15 16:10:35,820 open.py[line:42] INFO ��app
+2020-04-15 16:11:23,050 First_start.py[line:25] INFO =============check_PrivacyRightBtn============
+2020-04-15 16:11:26,218 First_start.py[line:31] INFO click PrivacyRightBtn
+2020-04-15 16:11:26,300 login.py[line:24] INFO ==========into_loginpage=========
+2020-04-15 16:11:29,247 login.py[line:28] INFO ==========into_pwdlogin=========
+2020-04-15 16:11:31,587 login.py[line:31] INFO ==========pwdlogin=========
+2020-04-15 16:11:31,588 login.py[line:32] INFO input username:15888509413
+2020-04-15 16:11:32,984 login.py[line:35] INFO input userpwd:abc12345
+2020-04-15 16:11:34,956 login.py[line:38] INFO click loginBtn
+2020-04-15 16:11:41,053 open_u3d.py[line:24] INFO ==========into_coursepage=========
+2020-04-15 16:25:28,852 open.py[line:42] INFO ��app
+2020-04-15 16:27:37,337 First_start.py[line:25] INFO =============check_PrivacyRightBtn============
+2020-04-15 16:27:46,611 First_start.py[line:31] INFO click PrivacyRightBtn
+2020-04-15 16:27:47,571 login.py[line:24] INFO ==========into_loginpage=========
+2020-04-15 16:57:23,236 open.py[line:42] INFO ��app
+2020-04-15 16:59:15,872 open.py[line:42] INFO ��app
+2020-04-15 17:00:07,795 First_start.py[line:25] INFO =============check_PrivacyRightBtn============
+2020-04-15 17:00:11,648 First_start.py[line:31] INFO click PrivacyRightBtn
+2020-04-15 17:00:11,729 login.py[line:24] INFO ==========into_loginpage=========
+2020-04-15 17:00:15,087 login.py[line:28] INFO ==========into_pwdlogin=========
+2020-04-15 17:00:17,984 login.py[line:31] INFO ==========pwdlogin=========
+2020-04-15 17:00:17,984 login.py[line:32] INFO input username:15888509413
+2020-04-15 17:00:19,387 login.py[line:35] INFO input userpwd:abc12345
+2020-04-15 17:00:20,440 login.py[line:38] INFO click loginBtn
+2020-04-15 17:00:25,992 open_u3d.py[line:24] INFO ==========into_coursepage=========
+2020-04-15 17:00:26,255 open_u3d.py[line:26] INFO ==========open u3dcourse=========
+2020-04-15 17:00:31,421 open_u3d.py[line:33] INFO ==========get_permission=========
+2020-04-15 17:00:35,488 open_u3d.py[line:37] INFO ==========start_study=========
+2020-04-15 17:05:36,599 open.py[line:42] INFO ��app
+2020-04-15 17:07:18,621 First_start.py[line:25] INFO =============check_PrivacyRightBtn============
+2020-04-15 17:07:23,876 First_start.py[line:31] INFO click PrivacyRightBtn
+2020-04-15 17:07:23,951 login.py[line:24] INFO ==========into_loginpage=========
+2020-04-15 17:07:27,871 login.py[line:28] INFO ==========into_pwdlogin=========
+2020-04-15 17:07:29,730 login.py[line:31] INFO ==========pwdlogin=========
+2020-04-15 17:07:29,731 login.py[line:32] INFO input username:15888509413
+2020-04-15 17:07:31,204 login.py[line:35] INFO input userpwd:abc12345
+2020-04-15 17:07:32,318 login.py[line:38] INFO click loginBtn
+2020-04-15 17:07:37,923 open_u3d.py[line:24] INFO ==========into_coursepage=========
+2020-04-20 10:57:30,685 open.py[line:42] INFO ��app
+2020-04-20 11:01:14,382 open.py[line:42] INFO ��app
+2020-04-20 11:01:57,879 First_start.py[line:25] INFO =============check_PrivacyRightBtn============
+2020-04-20 11:02:02,434 First_start.py[line:31] INFO click PrivacyRightBtn
+2020-04-20 11:02:02,502 login.py[line:24] INFO ==========into_loginpage=========
+2020-04-20 11:02:04,922 login.py[line:28] INFO ==========into_pwdlogin=========
+2020-04-20 11:02:06,549 login.py[line:31] INFO ==========pwdlogin=========
+2020-04-20 11:02:06,549 login.py[line:32] INFO input username:15888509413
+2020-04-20 11:02:09,161 login.py[line:35] INFO input userpwd:abc12345
+2020-04-20 11:02:10,268 login.py[line:38] INFO click loginBtn
+2020-04-20 11:02:16,251 open_u3d.py[line:24] INFO ==========into_coursepage=========
+2020-04-20 11:02:17,025 open_u3d.py[line:26] INFO ==========open u3dcourse=========
+2020-04-20 11:02:21,923 open_u3d.py[line:33] INFO ==========get_permission=========
+2020-04-20 11:06:57,326 open.py[line:42] INFO ��app
+2020-04-20 11:07:17,397 First_start.py[line:25] INFO =============check_PrivacyRightBtn============
+2020-04-20 11:07:20,278 First_start.py[line:31] INFO click PrivacyRightBtn
+2020-04-20 11:07:20,325 login.py[line:24] INFO ==========into_loginpage=========
+2020-04-20 11:07:24,389 login.py[line:28] INFO ==========into_pwdlogin=========
+2020-04-20 11:07:26,911 login.py[line:31] INFO ==========pwdlogin=========
+2020-04-20 11:07:26,912 login.py[line:32] INFO input username:15888509413
+2020-04-20 11:07:29,214 login.py[line:35] INFO input userpwd:abc12345
+2020-04-20 11:07:30,515 login.py[line:38] INFO click loginBtn
+2020-04-20 11:07:36,110 open_u3d.py[line:24] INFO ==========into_coursepage=========
+2020-04-20 11:07:36,387 open_u3d.py[line:26] INFO ==========open u3dcourse=========
+2020-04-20 11:07:40,706 open_u3d.py[line:33] INFO ==========get_permission=========
+2020-04-20 11:07:46,526 open_u3d.py[line:41] INFO ==========start_study=========
+2020-04-20 11:11:04,910 open.py[line:42] INFO ��app
+2020-04-20 11:11:19,118 First_start.py[line:25] INFO =============check_PrivacyRightBtn============
+2020-04-20 11:11:27,795 First_start.py[line:29] INFO PrivacyRightBtn element is not found!
+2020-04-20 11:11:27,795 login.py[line:24] INFO ==========into_loginpage=========
+2020-04-20 11:13:25,653 open.py[line:42] INFO ��app
+2020-04-20 11:13:41,064 open_u3d.py[line:24] INFO ==========into_coursepage=========
+2020-04-20 11:13:44,568 open_u3d.py[line:26] INFO ==========open u3dcourse=========
+2020-04-20 12:19:48,204 open.py[line:42] INFO ��app
+2020-04-20 12:20:03,686 First_start.py[line:25] INFO =============check_PrivacyRightBtn============
+2020-04-20 12:20:11,956 First_start.py[line:29] INFO PrivacyRightBtn element is not found!
+2020-04-20 12:20:11,956 login.py[line:24] INFO ==========into_loginpage=========
+2020-04-20 12:21:03,749 open.py[line:42] INFO ��app
+2020-04-20 12:21:20,149 open_u3d.py[line:24] INFO ==========into_coursepage=========
+2020-04-20 12:21:22,662 open_u3d.py[line:26] INFO ==========open u3dcourse=========
+2020-04-20 12:22:05,156 open.py[line:42] INFO ��app
+2020-04-20 12:22:21,746 open_u3d.py[line:24] INFO ==========into_coursepage=========
+2020-04-20 12:22:24,293 open_u3d.py[line:26] INFO ==========open u3dcourse=========
+2020-04-20 13:54:58,414 open.py[line:42] INFO ��app
+2020-04-20 13:56:24,187 open.py[line:42] INFO ��app
+2020-04-21 18:56:43,298 open.py[line:42] INFO ��app
+2020-04-21 18:57:34,914 open.py[line:42] INFO ��app
+2020-04-21 18:57:57,909 First_start.py[line:25] INFO =============check_PrivacyRightBtn============
+2020-04-21 18:58:06,100 First_start.py[line:29] INFO PrivacyRightBtn element is not found!
+2020-04-21 18:58:06,101 login.py[line:24] INFO ==========into_loginpage=========
+2020-04-21 18:58:27,738 open.py[line:42] INFO ��app
+2020-04-21 18:58:45,902 First_start.py[line:25] INFO =============check_PrivacyRightBtn============
+2020-04-21 18:58:54,098 First_start.py[line:29] INFO PrivacyRightBtn element is not found!
+2020-04-21 18:58:54,098 login.py[line:24] INFO ==========into_loginpage=========
+2020-04-21 19:00:08,830 open.py[line:42] INFO ��app
+2020-04-21 19:00:27,304 First_start.py[line:25] INFO =============check_PrivacyRightBtn============
+2020-04-21 19:00:30,673 First_start.py[line:31] INFO click PrivacyRightBtn
+2020-04-21 19:00:30,749 login.py[line:24] INFO ==========into_loginpage=========
+2020-04-21 19:17:39,554 open.py[line:42] INFO ��app
+2020-04-21 19:18:00,233 First_start.py[line:26] INFO =============check_PrivacyRightBtn============
+2020-04-21 19:18:04,003 First_start.py[line:32] INFO click PrivacyRightBtn
+2020-04-21 19:18:04,059 First_start.py[line:36] INFO =============check_PopupCloseBtn============
+2020-04-21 19:18:04,636 First_start.py[line:42] INFO click PopupCloseBtn
+2020-04-21 19:18:04,637 login.py[line:25] INFO ==========into_loginpage=========
+2020-04-21 19:24:22,134 open.py[line:42] INFO ��app
+2020-04-21 19:24:41,279 First_start.py[line:26] INFO =============check_PrivacyRightBtn============
+2020-04-21 19:24:44,724 First_start.py[line:32] INFO click PrivacyRightBtn
+2020-04-21 19:24:44,778 First_start.py[line:36] INFO =============check_PopupCloseBtn============
+2020-04-21 19:24:45,379 First_start.py[line:42] INFO click PopupCloseBtn
+2020-04-21 19:24:45,436 login.py[line:25] INFO ==========into_loginpage=========
+2020-04-21 19:24:48,662 login.py[line:29] INFO ==========into_pwdlogin=========
+2020-04-21 19:24:50,835 login.py[line:32] INFO ==========pwdlogin=========
+2020-04-21 19:24:50,835 login.py[line:33] INFO input username:15888509413
+2020-04-21 19:24:53,385 login.py[line:36] INFO input userpwd:abc12345
+2020-04-21 19:24:54,623 login.py[line:39] INFO click loginBtn
+2020-04-21 19:25:01,361 open_u3d.py[line:24] INFO ==========into_coursepage=========
+2020-04-21 19:25:02,503 open_u3d.py[line:26] INFO ==========open u3dcourse=========
+2020-04-21 19:26:36,732 open.py[line:42] INFO ��app
+2020-04-21 19:26:57,743 First_start.py[line:26] INFO =============check_PrivacyRightBtn============
+2020-04-21 19:27:01,176 First_start.py[line:32] INFO click PrivacyRightBtn
+2020-04-21 19:27:01,234 First_start.py[line:36] INFO =============check_PopupCloseBtn============
+2020-04-21 19:27:01,808 First_start.py[line:42] INFO click PopupCloseBtn
+2020-04-21 19:27:02,454 login.py[line:25] INFO ==========into_loginpage=========
+2020-04-21 19:27:05,142 login.py[line:29] INFO ==========into_pwdlogin=========
+2020-04-21 19:27:07,314 login.py[line:32] INFO ==========pwdlogin=========
+2020-04-21 19:27:07,314 login.py[line:33] INFO input username:15888509413
+2020-04-21 19:27:09,556 login.py[line:36] INFO input userpwd:abc12345
+2020-04-21 19:27:10,814 login.py[line:39] INFO click loginBtn
+2020-04-21 19:27:16,416 First_start.py[line:36] INFO =============check_PopupCloseBtn============
+2020-04-21 19:27:16,688 First_start.py[line:42] INFO click PopupCloseBtn
+2020-04-21 19:27:16,733 open_u3d.py[line:24] INFO ==========into_coursepage=========
+2020-04-21 19:27:16,944 open_u3d.py[line:26] INFO ==========open u3dcourse=========
+2020-04-21 19:27:22,068 open_u3d.py[line:37] INFO ==========get_permission=========
+2020-04-21 19:27:26,581 open_u3d.py[line:46] INFO ==========start_study=========
+2020-04-21 19:37:34,842 open.py[line:42] INFO ��app
+2020-04-22 09:44:46,638 open.py[line:42] INFO ��app
+2020-04-22 11:19:13,942 open.py[line:42] INFO ��app
+2020-04-22 12:36:43,734 open.py[line:42] INFO ��app
+2020-04-22 12:37:03,448 First_start.py[line:26] INFO =============check_PrivacyRightBtn============
+2020-04-22 12:37:06,560 First_start.py[line:32] INFO click PrivacyRightBtn
+2020-04-22 12:37:06,624 First_start.py[line:36] INFO =============check_PopupCloseBtn============
+2020-04-22 12:37:15,529 First_start.py[line:40] INFO PopupCloseBtn element is not found!
+2020-04-22 12:37:15,530 login.py[line:26] INFO ==========into_loginpage=========
+2020-04-22 12:37:18,419 login.py[line:30] INFO ==========into_pwdlogin=========
+2020-04-22 12:37:20,039 login.py[line:33] INFO ==========pwdlogin=========
+2020-04-22 12:37:20,039 login.py[line:34] INFO input username:15888509413
+2020-04-22 12:37:21,453 login.py[line:37] INFO input userpwd:abc12345
+2020-04-22 12:37:22,871 login.py[line:40] INFO click loginBtn
+2020-04-22 12:37:29,110 First_start.py[line:36] INFO =============check_PopupCloseBtn============
+2020-04-22 12:37:38,009 First_start.py[line:40] INFO PopupCloseBtn element is not found!
+2020-04-22 12:37:38,010 open_u3d.py[line:24] INFO ==========into_coursepage=========
+2020-04-22 12:37:38,223 open_u3d.py[line:26] INFO ==========open u3dcourse=========
+2020-04-22 12:37:43,172 open_u3d.py[line:37] INFO ==========get_permission=========
+2020-04-22 12:37:48,942 open_u3d.py[line:46] INFO ==========start_study=========
+2020-04-22 12:39:02,190 open.py[line:42] INFO ��app
+2020-04-22 12:48:01,786 open.py[line:42] INFO ��app
+2020-04-22 12:48:18,365 First_start.py[line:26] INFO =============check_PrivacyRightBtn============
+2020-04-22 12:48:21,810 First_start.py[line:32] INFO click PrivacyRightBtn
+2020-04-22 12:48:21,854 First_start.py[line:36] INFO =============check_PopupCloseBtn============
+2020-04-22 12:48:30,582 First_start.py[line:40] INFO PopupCloseBtn element is not found!
+2020-04-22 12:48:30,583 login.py[line:26] INFO ==========into_loginpage=========
+2020-04-22 12:48:32,724 login.py[line:30] INFO ==========into_pwdlogin=========
+2020-04-22 12:48:34,794 login.py[line:33] INFO ==========pwdlogin=========
+2020-04-22 12:48:34,794 login.py[line:34] INFO input username:15888509413
+2020-04-22 12:48:37,200 login.py[line:37] INFO input userpwd:abc12345
+2020-04-22 12:48:38,332 login.py[line:40] INFO click loginBtn
+2020-04-22 12:48:44,414 First_start.py[line:36] INFO =============check_PopupCloseBtn============
+2020-04-22 12:48:52,742 First_start.py[line:40] INFO PopupCloseBtn element is not found!
+2020-04-22 12:48:52,742 open_u3d.py[line:30] INFO ==========into_coursepage=========
+2020-04-22 12:48:52,900 open_u3d.py[line:32] INFO ==========open u3dcourse=========
+2020-04-22 12:48:58,625 open_u3d.py[line:43] INFO ==========get_permission=========
+2020-04-22 12:49:03,622 open_u3d.py[line:52] INFO ==========start_study=========
+2020-04-22 13:38:04,965 open.py[line:46] INFO ��app
+2020-04-22 13:38:24,695 First_start.py[line:26] INFO =============check_PrivacyRightBtn============
+2020-04-22 13:38:27,965 First_start.py[line:32] INFO click PrivacyRightBtn
+2020-04-22 13:38:28,005 First_start.py[line:36] INFO =============check_PopupCloseBtn============
+2020-04-22 13:38:36,358 First_start.py[line:40] INFO PopupCloseBtn element is not found!
+2020-04-22 13:38:36,359 login.py[line:29] INFO ==========into_loginpage=========
+2020-04-22 13:38:39,456 login.py[line:33] INFO ==========into_pwdlogin=========
+2020-04-22 13:38:40,993 login.py[line:36] INFO ==========pwdlogin=========
+2020-04-22 13:38:40,993 login.py[line:37] INFO input username:15888509413
+2020-04-22 13:38:42,460 login.py[line:40] INFO input userpwd:abc12345
+2020-04-22 13:38:43,579 login.py[line:43] INFO click loginBtn
+2020-04-22 13:38:49,170 First_start.py[line:36] INFO =============check_PopupCloseBtn============
+2020-04-22 13:38:57,572 First_start.py[line:40] INFO PopupCloseBtn element is not found!
+2020-04-22 13:38:57,572 open_u3d.py[line:30] INFO ==========into_coursepage=========
+2020-04-22 13:38:57,756 open_u3d.py[line:32] INFO ==========open u3dcourse=========
+2020-04-22 13:39:02,215 open_u3d.py[line:43] INFO ==========get_permission=========
+2020-04-22 13:39:07,336 open_u3d.py[line:52] INFO ==========start_study=========
+2020-04-22 13:44:06,307 open.py[line:43] INFO ��app
+2020-04-22 13:44:24,711 First_start.py[line:26] INFO =============check_PrivacyRightBtn============
+2020-04-22 13:44:27,736 First_start.py[line:32] INFO click PrivacyRightBtn
+2020-04-22 13:44:27,793 First_start.py[line:36] INFO =============check_PopupCloseBtn============
+2020-04-22 13:44:35,829 First_start.py[line:40] INFO PopupCloseBtn element is not found!
+2020-04-22 13:44:35,830 login.py[line:26] INFO ==========into_loginpage=========
+2020-04-22 13:44:37,950 login.py[line:30] INFO ==========into_pwdlogin=========
+2020-04-22 13:44:39,966 login.py[line:33] INFO ==========pwdlogin=========
+2020-04-22 13:44:39,967 login.py[line:34] INFO input username:15888509413
+2020-04-22 13:44:41,898 login.py[line:37] INFO input userpwd:abc12345
+2020-04-22 13:44:43,063 login.py[line:40] INFO click loginBtn
+2020-04-22 13:44:48,669 First_start.py[line:36] INFO =============check_PopupCloseBtn============
+2020-04-22 13:44:57,148 First_start.py[line:40] INFO PopupCloseBtn element is not found!
+2020-04-22 13:44:57,149 open_u3d.py[line:34] INFO ==========into_coursepage=========
+2020-04-22 13:44:57,341 open_u3d.py[line:36] INFO ==========open u3dcourse=========
+2020-04-22 13:45:01,852 open_u3d.py[line:47] INFO ==========get_permission=========
+2020-04-22 13:45:07,343 open_u3d.py[line:56] INFO ==========start_study=========

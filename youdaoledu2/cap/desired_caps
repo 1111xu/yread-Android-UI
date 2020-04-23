@@ -1,0 +1,11 @@
+platformName: Android     #注意空格
+platformVersion: 7.1.1
+deviceName: M95QACP8AHEUW   #71BQSCSMK2MJ2
+app: C:\Users\wb.xurunze\Desktop\apks\app-product-debug.apk
+noReset: False
+unicodeKeyboard: True
+appPackage: com.youdao.yread
+resetKeyboard: False
+appActivity: com.youdao.yread.app.presentation.infrastructure.activity.splash.SplashActivity
+ip: 127.0.0.1
+port: 4723

@@ -1,0 +1,42 @@
+2019-03-01 14:38:51,785 open.py[line:36] INFO 打开app
+2019-03-01 14:44:37,450 open.py[line:36] INFO 打开app
+2019-03-01 15:59:58,708 open.py[line:36] INFO 打开app
+2019-03-01 16:02:20,298 open.py[line:36] INFO 打开app
+2019-03-01 16:04:47,986 open.py[line:36] INFO 打开app
+2019-03-01 16:05:20,623 First_start.py[line:15] INFO =============check_OldloginBtn============
+2019-03-01 16:05:22,701 First_start.py[line:21] INFO click OldloginBtn
+2019-03-01 16:07:50,960 open.py[line:36] INFO 打开app
+2019-03-01 16:09:24,979 open.py[line:36] INFO 打开app
+2019-03-01 16:09:58,896 First_start.py[line:15] INFO =============check_OldloginBtn============
+2019-03-01 16:10:01,510 First_start.py[line:21] INFO click OldloginBtn
+2019-03-01 16:10:21,668 open.py[line:36] INFO 打开app
+2019-03-01 16:10:58,108 login.py[line:22] INFO ==========into_pwdlogin=========
+2019-03-01 16:17:27,938 open.py[line:36] INFO 打开app
+2019-03-01 16:18:07,403 First_start.py[line:15] INFO =============check_OldloginBtn============
+2019-03-01 16:18:09,588 First_start.py[line:21] INFO click OldloginBtn
+2019-03-01 16:20:22,534 open.py[line:36] INFO 打开app
+2019-03-01 16:20:59,288 First_start.py[line:15] INFO =============check_OldloginBtn============
+2019-03-01 16:21:01,581 First_start.py[line:21] INFO click OldloginBtn
+2019-03-01 16:22:24,313 open.py[line:36] INFO 打开app
+2019-03-01 16:24:59,585 open.py[line:36] INFO 打开app
+2019-03-01 16:25:36,410 First_start.py[line:15] INFO =============check_OldloginBtn============
+2019-03-01 16:25:39,037 First_start.py[line:21] INFO click OldloginBtn
+2019-03-01 16:26:51,363 open.py[line:36] INFO 打开app
+2019-03-01 16:27:30,857 First_start.py[line:15] INFO =============check_OldloginBtn============
+2019-03-01 16:27:32,982 First_start.py[line:21] INFO click OldloginBtn
+2019-03-01 16:28:26,527 open.py[line:36] INFO 打开app
+2019-03-01 16:29:03,518 First_start.py[line:15] INFO =============check_OldloginBtn============
+2019-03-01 16:29:05,605 First_start.py[line:21] INFO click OldloginBtn
+2019-03-01 16:29:07,072 login.py[line:19] INFO ==========into_pwdlogin=========
+2019-03-01 16:29:08,771 login.py[line:22] INFO ==========pwdlogin=========
+2019-03-01 16:29:08,772 login.py[line:23] INFO input username:15888509413
+2019-03-01 16:29:09,939 login.py[line:26] INFO input userpwd:a1234567
+2019-03-01 16:29:10,991 login.py[line:29] INFO click loginBtn
+2019-03-01 16:29:55,867 open.py[line:36] INFO 打开app
+2019-03-01 16:30:32,651 First_start.py[line:15] INFO =============check_OldloginBtn============
+2019-03-01 16:30:34,577 First_start.py[line:21] INFO click OldloginBtn
+2019-03-01 16:30:36,605 login.py[line:19] INFO ==========into_pwdlogin=========
+2019-03-01 16:30:38,284 login.py[line:22] INFO ==========pwdlogin=========
+2019-03-01 16:30:38,284 login.py[line:23] INFO input username:15888509413
+2019-03-01 16:30:39,446 login.py[line:26] INFO input userpwd:a1234568
+2019-03-01 16:30:40,496 login.py[line:29] INFO click loginBtn

@@ -1,0 +1,16 @@
+DEBUG:root:debug info
+INFO:root:hello zxw
+WARNING:root:warning info
+ERROR:root:error info
+CRITICAL:root:critical info
+
+DEBUG:root:debug info
+INFO:root:hello zxw
+WARNING:root:warning info
+ERROR:root:error info
+CRITICAL:root:critical info
+2018-12-28 10:10:58,180 logging_log.py[line:6] DEBUG debug info
+2018-12-28 10:10:58,181 logging_log.py[line:7] INFO hello zxw
+2018-12-28 10:10:58,181 logging_log.py[line:8] WARNING warning info
+2018-12-28 10:10:58,181 logging_log.py[line:9] ERROR error info
+2018-12-28 10:10:58,181 logging_log.py[line:10] CRITICAL critical info

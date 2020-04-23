@@ -1,0 +1,10 @@
+platformName: Android
+platformVersion: 7.1.2
+deviceName: 127.0.0.1:62026
+app: C:\Users\wb.xurunze\Desktop\iBiliPlayer-bili.apk
+noReset: False
+unicodeKeyboard: True
+appPackage: tv.danmaku.bili
+appActivity: tv.danmaku.bili.ui.splash.SplashActivity
+ip: 127.0.0.1
+port: 4723
