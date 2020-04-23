@@ -1,0 +1,28 @@
+2020-04-23 15:57:01,920 myunit.py[line:11] INFO =========setUp========
+2020-04-23 15:57:01,927 open.py[line:43] INFO 打开app
+2020-04-23 15:57:29,759 test.py[line:9] INFO =====test_pwdlogin_openu3d=====
+2020-04-23 15:57:29,759 myunit.py[line:15] INFO =========tearDown========
+2020-04-23 16:04:35,574 myunit.py[line:11] INFO =========setUp========
+2020-04-23 16:04:35,581 open.py[line:43] INFO 打开app
+2020-04-23 16:04:59,551 test.py[line:9] INFO =====test_pwdlogin_openu3d=====
+2020-04-23 16:04:59,552 myunit.py[line:15] INFO =========tearDown========
+2020-04-23 16:18:40,778 myunit.py[line:11] INFO =========setUp========
+2020-04-23 16:18:40,784 open.py[line:43] INFO 打开app
+2020-04-23 16:19:04,963 test.py[line:9] INFO =====test_pwdlogin_openu3d=====
+2020-04-23 16:19:04,963 First_start.py[line:26] INFO =============check_PrivacyRightBtn============
+2020-04-23 16:19:09,609 First_start.py[line:32] INFO click PrivacyRightBtn
+2020-04-23 16:19:09,643 First_start.py[line:36] INFO =============check_PopupCloseBtn============
+2020-04-23 16:19:18,021 First_start.py[line:40] INFO PopupCloseBtn element is not found!
+2020-04-23 16:19:18,021 login.py[line:26] INFO ==========into_loginpage=========
+2020-04-23 16:19:21,123 login.py[line:30] INFO ==========into_pwdlogin=========
+2020-04-23 16:19:23,345 login.py[line:33] INFO ==========pwdlogin=========
+2020-04-23 16:19:23,345 login.py[line:34] INFO input username:15888509413
+2020-04-23 16:19:25,021 login.py[line:37] INFO input userpwd:abc12345
+2020-04-23 16:19:26,173 login.py[line:40] INFO click loginBtn
+2020-04-23 16:19:32,230 First_start.py[line:36] INFO =============check_PopupCloseBtn============
+2020-04-23 16:19:40,934 First_start.py[line:40] INFO PopupCloseBtn element is not found!
+2020-04-23 16:19:40,934 open_u3d.py[line:34] INFO ==========into_coursepage=========
+2020-04-23 16:19:41,106 open_u3d.py[line:36] INFO ==========open u3dcourse=========
+2020-04-23 16:19:47,138 open_u3d.py[line:47] INFO ==========get_permission=========
+2020-04-23 16:19:53,308 open_u3d.py[line:57] INFO ==========start_study=========
+2020-04-23 16:19:55,934 myunit.py[line:15] INFO =========tearDown========
