@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fc92b98a-6cda-43e2-820c-89d5168dd241" name="Default" comment="" />
+    <list default="true" id="fc92b98a-6cda-43e2-820c-89d5168dd241" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/Appium.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Appium.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/youdaoledu2/open_u3d.py" beforeDir="false" afterPath="$PROJECT_DIR$/youdaoledu2/open_u3d.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/youdaoledu2/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/youdaoledu2/test.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +28,9 @@
     <findStrings>
       <find>R</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1aIlOkUb3V8QllRuPjXRRCy7mmU" />
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -47,6 +56,7 @@
     </entry>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://D:/Appium/bilibili/test_login.py" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/lib1" />
@@ -243,6 +253,7 @@
       <workItem from="1587349962972" duration="8347000" />
       <workItem from="1587525888141" duration="7088000" />
       <workItem from="1587610161150" duration="1630000" />
+      <workItem from="1587633621672" duration="405000" />
     </task>
     <servers />
   </component>
@@ -262,6 +273,17 @@
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.yaml" />
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.conf" />
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.log" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

@@ -36,11 +36,11 @@ class open_u3d(Login_phone):
         logging.info('==========open u3dcourse=========')
         self.driver.find_element(By.XPATH, "//android.widget.TextView[@text='动物宝宝']").click()
 
-    def getPermit(self):
+    def openU3d(self):
 
         if desired_caps['noReset']==False:
 
-            L.login_pwd('15888509413', 'abc12345')
+            self.login_pwd('15888509413', 'abc12345')
             sleep(5)
             self.check_PopupCloseBtn()
             self.open_course()
@@ -64,4 +64,4 @@ class open_u3d(Login_phone):
 if __name__ == '__main__':
     driver = appium_desired()
     L = open_u3d(driver)
-    L.getPermit()
+    L.openU3d()
