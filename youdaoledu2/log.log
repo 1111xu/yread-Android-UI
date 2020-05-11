@@ -763,3 +763,5 @@
 2020-04-22 13:44:57,341 open_u3d.py[line:36] INFO ==========open u3dcourse=========
 2020-04-22 13:45:01,852 open_u3d.py[line:47] INFO ==========get_permission=========
 2020-04-22 13:45:07,343 open_u3d.py[line:56] INFO ==========start_study=========
+2020-04-23 17:37:44,991 myunit.py[line:11] INFO =========setUp========
+2020-04-23 17:37:44,998 open.py[line:43] INFO ´ò¿ªapp
