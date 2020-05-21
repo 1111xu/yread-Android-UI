@@ -765,3 +765,41 @@
 2020-04-22 13:45:07,343 open_u3d.py[line:56] INFO ==========start_study=========
 2020-04-23 17:37:44,991 myunit.py[line:11] INFO =========setUp========
 2020-04-23 17:37:44,998 open.py[line:43] INFO 打开app
+2020-05-21 18:51:22,765 open.py[line:43] INFO 打开app
+2020-05-21 18:56:55,073 open.py[line:43] INFO 打开app
+2020-05-21 18:57:06,363 open.py[line:43] INFO 打开app
+2020-05-21 18:58:42,780 open.py[line:43] INFO 打开app
+2020-05-21 18:59:06,628 open.py[line:43] INFO 打开app
+2020-05-21 19:00:18,340 myunit.py[line:11] INFO =========setUp========
+2020-05-21 19:00:18,342 open.py[line:43] INFO 打开app
+2020-05-21 19:02:16,404 open.py[line:43] INFO 打开app
+2020-05-21 19:02:54,003 First_start.py[line:26] INFO =============check_PrivacyRightBtn============
+2020-05-21 19:02:58,885 First_start.py[line:32] INFO click PrivacyRightBtn
+2020-05-21 19:02:59,007 First_start.py[line:36] INFO =============check_PopupCloseBtn============
+2020-05-21 19:03:07,515 First_start.py[line:40] INFO PopupCloseBtn element is not found!
+2020-05-21 19:03:07,516 login.py[line:26] INFO ==========into_loginpage=========
+2020-05-21 19:03:09,680 login.py[line:30] INFO ==========into_pwdlogin=========
+2020-05-21 19:03:11,936 login.py[line:33] INFO ==========pwdlogin=========
+2020-05-21 19:03:11,937 login.py[line:34] INFO input username:15888509413
+2020-05-21 19:03:13,518 login.py[line:37] INFO input userpwd:abc12345
+2020-05-21 19:03:14,743 login.py[line:40] INFO click loginBtn
+2020-05-21 19:03:31,668 myunit.py[line:11] INFO =========setUp========
+2020-05-21 19:03:31,670 open.py[line:43] INFO 打开app
+2020-05-21 19:04:15,748 test.py[line:31] INFO =====testlogin_a12345=====
+2020-05-21 19:04:15,748 First_start.py[line:26] INFO =============check_PrivacyRightBtn============
+2020-05-21 19:04:20,170 First_start.py[line:32] INFO click PrivacyRightBtn
+2020-05-21 19:04:20,301 First_start.py[line:36] INFO =============check_PopupCloseBtn============
+2020-05-21 19:04:28,899 First_start.py[line:40] INFO PopupCloseBtn element is not found!
+2020-05-21 19:04:28,900 login.py[line:26] INFO ==========into_loginpage=========
+2020-05-21 19:04:31,110 login.py[line:30] INFO ==========into_pwdlogin=========
+2020-05-21 19:04:34,117 login.py[line:33] INFO ==========pwdlogin=========
+2020-05-21 19:04:34,117 login.py[line:34] INFO input username:15888509413
+2020-05-21 19:04:35,997 login.py[line:37] INFO input userpwd:abc12345
+2020-05-21 19:04:37,636 login.py[line:40] INFO click loginBtn
+2020-05-21 19:04:43,148 First_start.py[line:36] INFO =============check_PopupCloseBtn============
+2020-05-21 19:04:51,214 First_start.py[line:40] INFO PopupCloseBtn element is not found!
+2020-05-21 19:04:51,214 open_u3d.py[line:34] INFO ==========into_coursepage=========
+2020-05-21 19:04:51,359 open_u3d.py[line:36] INFO ==========open u3dcourse=========
+2020-05-21 19:04:56,283 open_u3d.py[line:47] INFO ==========get_permission=========
+2020-05-21 19:05:01,387 open_u3d.py[line:57] INFO ==========start_study=========
+2020-05-21 19:05:02,986 myunit.py[line:15] INFO =========tearDown========
